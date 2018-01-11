@@ -1,4 +1,9 @@
-# SAP Business One
+---
+layout: base
+title: SAP Business One SDK C#
+---
+
+# SAP Business One SDK C#
 
 ## SAP B1: C# (cSharp)
 Nuestra [comunidad de Ayuda SAP](http://foros.consultoria-sap.com) lleva años brindando información, y soporte a miles de consultas de forma desinteresada y gratuita. 
@@ -14,5 +19,4 @@ Dale una leída a los debates marcados con [#csharp](http://foros.consultoria-sa
 
 
 
-***
-Copyright © 2008-2018 - [www.Consultoria-SAP.com](http://www.Consultoria-SAP.com)
+
