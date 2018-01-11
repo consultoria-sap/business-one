@@ -8,5 +8,11 @@ A medida que más desarrolladores se unen a nuestra comunidad, vemos que los có
 
 La idea de este repositorio es que el código pueda ser mejorado con el tiempo, o bien servir a otros usuarios que usan GitHub y comuidades afines para encontrar el código y aprender más sobre el mismo.
 
+## Ayuda con CSHARP para SAP Business One
+Si necesitas una mano, hay programadores evacuando sus dudas en nuestra comunidad de Ayuda SAP.
+Dale una leída a los debates marcados con [#csharp](http://foros.consultoria-sap.com/tags/csharp) (o bien, envía tus consultas nuevas).
+
+
+
 ***
 Copyright © 2008-2018 - [www.Consultoria-SAP.com](http://www.Consultoria-SAP.com)
