@@ -20,7 +20,7 @@ La tabla de Condiciones de Pago de los SN es OCTG
 
 Para consultar la tabla OCTG por medio de la DIAPI:
 
-{% highlight csharp %}
+{% highlight csharp linenos %}
 Dim oRecordSet As SAPbobsCOM.Recordset
   Dim sCodigoCondicion as Int
   Dim sNombreCondicion as String
