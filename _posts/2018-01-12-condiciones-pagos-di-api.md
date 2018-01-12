@@ -7,8 +7,9 @@ published: true
 date: 2018-01-12T15:04:54+00:00
 ---
 
-## La consulta
-Como podría obtener las condiciones de pago por di api, y este pueda llenar una grilla? Son las condiciones de pagos de los socios de negociaciones en la pestaña de condiciones de pago. ¿Se podria obtener por SAPbobs ? 
+¿Cómo podría obtener las condiciones de pago por di api, y este pueda llenar una grilla? 
+Son las condiciones de pagos de los socios de negociaciones en la pestaña de condiciones de pago. 
+¿Se podria obtener por SAPbobs ? 
 
 <!--more-->
 
