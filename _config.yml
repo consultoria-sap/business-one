@@ -1,3 +1,13 @@
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+permalink: pretty
+baseurl: /business-one/
+url: https://consultoria-sap.github.io/business-one/
+
+# Build
 theme: jekyll-theme-minimal
 title: SAP Business One
 description: Repositorio libre con códigos para aprender SAP Business One.
@@ -5,9 +15,10 @@ description: Repositorio libre con códigos para aprender SAP Business One.
 avatar: https://avatars2.githubusercontent.com/u/23317692?v=3&u=3319301a436f2b42d9c4fa89370ddc2e40c0feea
 gems:
   - jekyll-sitemap
-repository: "consultoria-sap/business-one"
-baseurl: https://consultoria-sap.github.io/business-one/
+#repository: "consultoria-sap/business-one"
 timezone: America/Argentina/Buenos_Aires
+excerpt_separator: <!--more-->
+
 
 
 #collections:
@@ -16,6 +27,3 @@ timezone: America/Argentina/Buenos_Aires
 #        tags:
 #                output: true
 
-permalinks: none
-#markdown: kramdown
-excerpt_separator: <!--more-->
