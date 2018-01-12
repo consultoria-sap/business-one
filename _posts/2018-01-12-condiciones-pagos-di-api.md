@@ -1,17 +1,18 @@
 ---
-layout: base
-title: Condiciones de Pagos por DI API - SAP Business One
+layout: post
+title: Condiciones de Pagos por DI API
 url: /condiciones-pagos-di-api/
 category: csharp
 published: true
 date: 2018-01-12T15:04:54+00:00
 ---
 
+## La consulta
 Como podría obtener las condiciones de pago por di api, y este pueda llenar una grilla? Son las condiciones de pagos de los socios de negociaciones en la pestaña de condiciones de pago. ¿Se podria obtener por SAPbobs ? 
 
 <!--more-->
 
-## Solución
+## Solución aceptada
 SI vas a CONSULTAR cualquier objeto o tabla de SAP Tienes basicamente 2 vias:
 
 * Por una consulta SELECT a traves del objeto oRecordset de la DIAPI .
@@ -46,4 +47,4 @@ Dim oRecordSet As SAPbobsCOM.Recordset
 
 ***
 
-[Fuente](http://foros.consultoria-sap.com/t/llenar-una-grilla-con-las-formas-de-pago-con-diapi/20158)
+[Leer todo el debate original](http://foros.consultoria-sap.com/t/llenar-una-grilla-con-las-formas-de-pago-con-diapi/20158)
