@@ -4,7 +4,7 @@ highlighter: rouge
 
 # Permalinks
 permalink: pretty
-baseurl: /business-one/
+baseurl: /business-one
 url: https://consultoria-sap.github.io/business-one/
 
 # Build
