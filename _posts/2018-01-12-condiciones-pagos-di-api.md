@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Condiciones de Pagos por DI API - SAP Business One
+url: /condiciones-pagos-di-api/
 category: csharp
 published: true
 date: 2018-01-12T15:04:54+00:00
@@ -20,7 +21,7 @@ La tabla de Condiciones de Pago de los SN es OCTG
 
 Para consultar la tabla OCTG por medio de la DIAPI:
 
-{% highlight csharp linenos %}
+{% highlight cs %}
 Dim oRecordSet As SAPbobsCOM.Recordset
   Dim sCodigoCondicion as Int
   Dim sNombreCondicion as String
