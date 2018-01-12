@@ -3,7 +3,8 @@ markdown: kramdown
 highlighter: rouge
 
 # Permalinks
-permalink: pretty
+#permalink: pretty
+permalink: /:categories/:title.html
 baseurl: /business-one
 url: https://consultoria-sap.github.io/business-one/
 
