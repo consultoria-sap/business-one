@@ -1,8 +1,8 @@
-### Borrador
+### ¿Qué es este espacio?
+Si llegaste investigando en GitHub, o por algún enlace al código que compartimos, por favor [ingresa aquí](https://consultoria-sap.github.io/business-one/) así entiendes cómo funciona este proyecto.
 
-Aún no se define bien cómo subir los códigos y organizar este repo.
 
-## Archivo nuevo
+## Guía para archivo nuevo
 
 1. Siempre bajo carpeta `codigos`. 
 1. Siempre crear nueva carpeta con nombre de máximo 2 (dos) palabras. Ejemplo: `condiciones-diapi`
