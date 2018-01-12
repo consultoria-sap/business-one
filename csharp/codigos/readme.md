@@ -13,7 +13,7 @@ Si llegaste investigando en GitHub, o por algún enlace al código que compartim
    * En el cuerpo del archivo pegar código directamente (respetando formato del archivo de csharp). 
      Si es otro lenguaje, cambiar la extensión de acuerdo al lenguaje. 
      
-     [Ver ejemplo](https://github.com/consultoria-sap/business-one/blob/master/csharp/codigos/condiciones-pagos-di-api/v0.cs)
+     [Ver ejemplo](https://github.com/consultoria-sap/business-one/blob/master/csharp/codigos/actualizar-dos-forms/v0.cs)
 
 
 
