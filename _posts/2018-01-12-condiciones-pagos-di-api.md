@@ -1,13 +1,13 @@
 ---
 layout: base
-excerpt_separator: <!--more-->
 title: Condiciones de Pagos por DI API - SAP Business One
 category: csharp
 published: true
-date:   2018-01-12T15:04:54+00:00
+date: 2018-01-12T15:04:54+00:00
 ---
 
 Como podría obtener las condiciones de pago por di api, y este pueda llenar una grilla? Son las condiciones de pagos de los socios de negociaciones en la pestaña de condiciones de pago. ¿Se podria obtener por SAPbobs ? 
+
 <!--more-->
 
 ## Solución
