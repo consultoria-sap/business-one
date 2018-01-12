@@ -16,3 +16,4 @@ repository: "consultoria-sap/business-one"
 
 permalinks: none
 markdown: kramdown
+excerpt_separator: <!--more-->
