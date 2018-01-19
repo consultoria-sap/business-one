@@ -21,7 +21,7 @@ Dale una leída a los debates marcados con [#sql](http://foros.consultoria-sap.c
 
 <ul>      
 {% for category in site.categories %}                           
-{% for posts in category[1] %}                                                                                                                                     
+{% for posts in sql %}                      
 <li><a class="post-link" href="{{ posts.url }}">{{ posts.title }}</a></li>                                                         
 {% endfor %}                                                        
 {% endfor %}
