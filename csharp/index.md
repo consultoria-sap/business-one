@@ -1,6 +1,7 @@
 ---
 layout: base
 title: SAP Business One SDK C#
+category: csharp
 ---
 
 # SAP Business One SDK C#
@@ -20,7 +21,7 @@ Dale una leída a los debates marcados con [#csharp](http://foros.consultoria-sa
 ## Índice de códigos
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.categories[page.category] %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
