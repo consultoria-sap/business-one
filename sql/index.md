@@ -1,6 +1,7 @@
 ---
 layout: base
 title: SQL Query - SAP Business One
+category: sql
 ---
 
 # Consultas SQL
@@ -20,7 +21,11 @@ Dale una leída a los debates marcados con [#sql](http://foros.consultoria-sap.c
 ## Índice de códigos 3
 
 <ul>      
-{% for post in site.categories[page.category] %}                      
-<li><a class="post-link" href="{{ posts.url }}">{{ posts.title }}</a></li>                                                         
-{% endfor %}                                                        
+{% for post in site.categories[page.category] %}
+  <li>
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }}
+    </a>
+  </li>
+{% endfor %}                                                     
 </ul>
