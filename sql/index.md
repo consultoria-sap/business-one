@@ -18,7 +18,7 @@ La idea de este repositorio es que el código pueda ser mejorado con el tiempo, 
 Si necesitas una mano, hay programadores evacuando sus dudas en nuestra comunidad de Ayuda SAP.
 Dale una leída a los debates marcados con [#sql](http://foros.consultoria-sap.com/tags/sql) (o bien, envía tus consultas nuevas).
 
-## Índice de códigos 3
+## Índice de códigos 4
 
 <ul>      
 {% for post in site.categories[page.category] %}
