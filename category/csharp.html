@@ -4,4 +4,11 @@ title: Csharp
 category: csharp
 ---
 
-.testing
+{% for post in site.categories[page.category] %}
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }}
+    </a>
+{% endfor %}
+
+.testing csharp
+ 
