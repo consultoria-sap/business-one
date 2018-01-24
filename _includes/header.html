@@ -2,7 +2,12 @@
   <body>
     <div class="wrapper">
       <header>
+	<div style="text-align:center">
+		<a href="{{ site.github.repository_url }}" title="{{ github_name }}">
+			<img src="https://img.shields.io/github/stars/consultoria-sap/business-one.svg?style=social&label=Estrellas" alt="Github Stars" title="Votar proyecto Business One" style="margin-bottom: 5px;" />
+		</a><br />
 	<a href="{{ site.baseurl }}" title="SAP Business One"><img src="{{ site.avatar }}" alt="Business One" /></a>
+	</div>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 <!--// 
