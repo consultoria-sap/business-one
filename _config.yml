@@ -16,6 +16,7 @@ description: Repositorio libre con códigos para aprender SAP Business One.
 avatar: https://avatars2.githubusercontent.com/u/23317692?v=3&u=3319301a436f2b42d9c4fa89370ddc2e40c0feea
 gems:
   - jekyll-sitemap
+  - jemoji
 #repository: "consultoria-sap/business-one"
 timezone: America/Argentina/Buenos_Aires
 excerpt_separator: <!--more-->
