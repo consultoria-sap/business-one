@@ -10,7 +10,7 @@ date: 2018-03-01T14:26:00-03:00
 Quiero saber como podria ingresar una factura a SAP y aplicar al mismo tiempo el pago de esa factura por medio del SDK(DI API).
 
 Ya que en SAP al momento de ingresar la factura puedo aplicar el pago de esta manera:
-https://foros.consultoria-sap.com/uploads/default/optimized/2X/5/5b326968eb1e738ec34f96eb54910229aa10d377_1_690x401.jpg
+![Crear Factura y Pago Business One](https://foros.consultoria-sap.com/uploads/default/optimized/2X/5/5b326968eb1e738ec34f96eb54910229aa10d377_1_690x401.jpg "Crear Factura y Pago")
 
 <!--more-->
 
