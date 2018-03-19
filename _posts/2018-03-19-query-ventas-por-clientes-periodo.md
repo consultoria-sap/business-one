@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Error en Query SQL Divide by Zero
+title: Query de ventas por clientes en un periodo
 url: /query-ventas-por-clientes-periodo/
 category: sql
 published: true
