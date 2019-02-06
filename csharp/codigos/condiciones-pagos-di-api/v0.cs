@@ -1,5 +1,5 @@
 /*
-Fuente: http://foros.consultoria-sap.com/t/llenar-una-grilla-con-las-formas-de-pago-con-diapi/20158
+Fuente: https://foros.consultoria-sap.com/t/llenar-una-grilla-con-las-formas-de-pago-con-diapi/20158
 Autor/es: GrabrielGS 
 */
 
