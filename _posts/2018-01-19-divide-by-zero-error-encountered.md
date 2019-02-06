@@ -85,4 +85,4 @@ ORDER BY
 
 ***
 
-[Leer todo el debate original](http://foros.consultoria-sap.com/t/error-de-query-en-sap/22276)
+[Leer todo el debate original](https://foros.consultoria-sap.com/t/22276)
