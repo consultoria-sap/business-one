@@ -48,4 +48,4 @@ Dim oRecordSet As SAPbobsCOM.Recordset
 
 ***
 
-[Leer todo el debate original](http://foros.consultoria-sap.com/t/llenar-una-grilla-con-las-formas-de-pago-con-diapi/20158) - :+1: 
+[Leer todo el debate original](https://foros.consultoria-sap.com/t/20158) - :+1: 
