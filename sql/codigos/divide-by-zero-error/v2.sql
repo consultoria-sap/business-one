@@ -1,4 +1,4 @@
--- Fuente: http://foros.consultoria-sap.com/t/22276/13?u=sidv
+-- Fuente: https://foros.consultoria-sap.com/t/22276/13?u=sidv
 -- Autor: Marckosss_P
 
 DECLARE @cambio numeric(22,12 )
