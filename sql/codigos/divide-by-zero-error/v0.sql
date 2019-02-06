@@ -1,4 +1,4 @@
--- Fuente: http://foros.consultoria-sap.com/t/error-de-query-en-sap/22276
+-- Fuente: https://foros.consultoria-sap.com/t/22276
 -- Autor: Marckosss_P
 
 DECLARE @cambio numeric(22,12 )

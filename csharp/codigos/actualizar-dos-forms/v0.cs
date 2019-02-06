@@ -1,5 +1,5 @@
 /*
-Fuente: http://foros.consultoria-sap.com/t/actualizar-dos-form-a-la-vez-c/22030
+Fuente: https://foros.consultoria-sap.com/t/actualizar-dos-form-a-la-vez-c/22030
 Autor: Esteban_P
 */
 
