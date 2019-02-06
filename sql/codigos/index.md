@@ -6,7 +6,7 @@ title: SQL Query - SAP Business One
 # Consultas SQL
 
 ## Comunidad de Ayuda SAP
-Nuestra [comunidad de Ayuda SAP](http://foros.consultoria-sap.com) lleva años brindando información, y soporte a miles de consultas de forma desinteresada y gratuita. 
+Nuestra [comunidad de Ayuda SAP](https://foros.consultoria-sap.com) lleva años brindando información, y soporte a miles de consultas de forma desinteresada y gratuita. 
 
 ### ¿Por qué compartir código?
 A medida que más desarrolladores se unen a nuestra comunidad, vemos que los códigos se comparten entre sus miembros, pero no hay evolución ni mejoras a dichos códigos.
