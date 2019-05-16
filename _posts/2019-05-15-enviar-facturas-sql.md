@@ -532,7 +532,7 @@ Esta ultima parte la pueden manejar como gusten enviar los correos.
 Si tiene alguna duda puedo apoyarlos, también si pase por alto algún detalle.
 
 Le comparto que si me funciona en la base de datos de prueba
-![image|654x500](https://foros.consultoria-sap.com/uploads/default/optimized/3X/f/2/f23042e6d60949161f9f898d7d4c9a436216b59d_2_654x500.png)  
+![image|654x500](https://foros.consultoria-sap.com/uploads/default/original/3X/6/9/699306fccaed5324326bf7dea2a9ae536fabd2ce.png)  
 
 Asi es como esta actualmente el procedimiento
 ![image|647x500](https://foros.consultoria-sap.com/uploads/default/optimized/3X/e/5/e58a6003f5c4653c449080bfdf4ed4492c17ba40_2_647x500.png)
